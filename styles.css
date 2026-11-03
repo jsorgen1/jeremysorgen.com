@@ -92,12 +92,11 @@ section h2 {
 
 /* ---------- Hero ---------- */
 .hero {
-  min-height: 92vh;
   display: grid;
   grid-template-columns: 1fr 340px;
   gap: 56px;
   align-items: center;
-  padding-top: 48px;
+  padding-top: 96px;
 }
 .eyebrow {
   text-transform: uppercase; letter-spacing: .14em;
